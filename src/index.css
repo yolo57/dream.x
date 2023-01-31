@@ -1,0 +1,11 @@
+body {
+  background-image: url('https://media4.giphy.com/media/Q0jmgckq0Kga7THaEF/giphy.gif?cid=790b7611a9b6990aff1124bce772b51ce1aadd74cf2a130f&rid=giphy.gif&ct=g');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
